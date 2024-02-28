@@ -13,6 +13,8 @@
 		1C43C8A92B8FE8D1005A3415 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C43C8A72B8FE8D1005A3415 /* Main.storyboard */; };
 		1C43C8AB2B8FE8D3005A3415 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C43C8AA2B8FE8D3005A3415 /* Assets.xcassets */; };
 		1C43C8AE2B8FE8D3005A3415 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C43C8AC2B8FE8D3005A3415 /* LaunchScreen.storyboard */; };
+		1C43C8B62B8FEBBB005A3415 /* MyClasse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C43C8B52B8FEBBB005A3415 /* MyClasse.swift */; };
+		1C43C8BC2B8FF0A0005A3415 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C43C8BB2B8FF0A0005A3415 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		1C43C8AA2B8FE8D3005A3415 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C43C8AD2B8FE8D3005A3415 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C43C8AF2B8FE8D3005A3415 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C43C8B52B8FEBBB005A3415 /* MyClasse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyClasse.swift; sourceTree = "<group>"; };
+		1C43C8BB2B8FF0A0005A3415 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				1C43C8AA2B8FE8D3005A3415 /* Assets.xcassets */,
 				1C43C8AC2B8FE8D3005A3415 /* LaunchScreen.storyboard */,
 				1C43C8AF2B8FE8D3005A3415 /* Info.plist */,
+				1C43C8B52B8FEBBB005A3415 /* MyClasse.swift */,
+				1C43C8BB2B8FF0A0005A3415 /* DetailsViewController.swift */,
 			);
 			path = thirdapp;
 			sourceTree = "<group>";
@@ -140,7 +146,9 @@
 			files = (
 				1C43C8A62B8FE8D1005A3415 /* ViewController.swift in Sources */,
 				1C43C8A22B8FE8D1005A3415 /* AppDelegate.swift in Sources */,
+				1C43C8B62B8FEBBB005A3415 /* MyClasse.swift in Sources */,
 				1C43C8A42B8FE8D1005A3415 /* SceneDelegate.swift in Sources */,
+				1C43C8BC2B8FF0A0005A3415 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
