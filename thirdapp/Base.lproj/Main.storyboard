@@ -75,7 +75,7 @@
         <!--Details View Controller-->
         <scene sceneID="lkN-zW-uMd">
             <objects>
-                <viewController id="ggd-ad-FGO" customClass="DetailsViewController" customModule="thirdapp" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="DetailsViewController" id="ggd-ad-FGO" customClass="DetailsViewController" customModule="thirdapp" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8GB-BV-hZI">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
